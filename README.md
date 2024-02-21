@@ -1,1 +1,1 @@
-1. [ДЗ №1]([https://github.com/ylabio/react-webinar-3/pull/15](https://github.com/aleksander1802/react-intensive/blob/first/README.md)https://github.com/aleksander1802/react-intensive/blob/first/README.md)
+1. [ДЗ №1](https://github.com/aleksander1802/react-intensive/blob/first/README.md)https://github.com/aleksander1802/react-intensive/blob/first/README.md)
