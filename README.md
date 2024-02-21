@@ -1,4 +1,4 @@
-[Ссылка на ДЗ №1](https://github.com/ylabio/react-webinar-3/pull/15)
+[Ссылка на PR ДЗ №1](https://github.com/ylabio/react-webinar-3/pull/15)
 
 ## ДЗ №1
 
