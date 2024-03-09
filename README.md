@@ -1,2 +1,8 @@
-1. [ДЗ №1](https://github.com/aleksander1802/react-intensive/blob/first/README.md)
-2. [ДЗ №2](https://github.com/aleksander1802/react-intensive/blob/second/README.md)
+[Ссылка на Pool request ДЗ №3](https://github.com/ylabio/react-webinar-3/pull/237)
+
+# ДЗ №3  
+
+## Внешнее состояние
+- [x] Реализована постраничная навигация.
+- [x] Реализована страница подробного описания товара.
+- [x] Реализована мультиязычность интерфейса приложения.
